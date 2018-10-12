@@ -5,7 +5,7 @@ Postmate.debug = true
 // Kick off the handshake with the iFrame
 const handshake = new Postmate({
   container: document.getElementById('frameContainer'),
-  url: 'http://localhost:6789'
+  url: 'https://boring-boyd-329a2b.netlify.com/'
 });
 
 
