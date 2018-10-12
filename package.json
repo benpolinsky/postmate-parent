@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html -p 1234"
+    "start": "parcel index.html -p 1234",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
